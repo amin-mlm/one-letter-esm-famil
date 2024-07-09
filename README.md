@@ -1,6 +1,6 @@
 ## About the Game
 
-Esm-o-Famil is a popular game in Iran where players are given a letter and some categories (e.g., names, animals, cities). They must come up with words that fit those categories and starts with that specified letter. It's a fun way to improve vocabulary and quick thinking skills.
+Esm-o-Famil is a popular game in Iran where players are given a letter and some categories (e.g., names, animals, cities and etc). They must come up with words that fit those categories and starts with that specified letter. It's a fun way to improve vocabulary and quick thinking skills.
 
 ## Features
 
